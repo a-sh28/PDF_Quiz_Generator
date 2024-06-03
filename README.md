@@ -14,7 +14,7 @@ Gemini API is used for generation of questions.
 ### How does utilising the application differ from uploading the PDFs to a LLM and prompting for questions?
 1. The application ensures that the questions generated are to the point with the input contexts - PDFs and topic.
 2. It does not leverage the memory of the LLM to generate questions based on the topic, hence hallucination is eliminated.
-3. A more sophisticated UI to naviagte the quiz, with explanation of why each answer is correct/incorrect.
+3. A more sophisticated UI to navigate the quiz, with explanation of why each answer is correct/incorrect.
 
 ## Usage
 ### Installation
