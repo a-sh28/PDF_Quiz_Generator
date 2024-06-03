@@ -1,6 +1,6 @@
 # PDF_Quiz_Generator
 A Quiz generator that generates MCQs based on certain input PDFs and a topic of interest.
-##Description
+## Description
 The Quiz Generator is a web application that aims in building a quiz based on the content from uploaded PDFs and a topic of interest.
 The UI is built using StreamLit, while the quiz generation algorithm is developed using Langchain, Chroma DB and Google Vertex AI. 
 Gemini API is used for generation of questions.
